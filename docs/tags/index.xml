@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CTO as a Service</title>
+    <link>https://ctoservice.pl/tags/</link>
+    <description>Recent content in Tags on CTO as a Service</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <copyright>© 2020 Piotr Włodarek</copyright>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ctoservice.pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gallery</title>
+      <link>https://ctoservice.pl/tags/gallery/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lightbox</title>
+      <link>https://ctoservice.pl/tags/lightbox/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/lightbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://ctoservice.pl/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://ctoservice.pl/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://ctoservice.pl/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://ctoservice.pl/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://ctoservice.pl/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://ctoservice.pl/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://ctoservice.pl/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://ctoservice.pl/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://ctoservice.pl/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ctoservice.pl/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

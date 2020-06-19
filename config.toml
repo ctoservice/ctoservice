@@ -1,0 +1,72 @@
+baseURL = "https://ctoservice.pl/"
+title = "CTO as a Service"
+copyright = "© 2020 Piotr Włodarek"
+paginate = 2
+languageCode = "pl"
+DefaultContentLanguage = "pl"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "hugo-theme-chunky-poster"
+publishDir = "docs"
+disableHugoGeneratorInject = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "cennik"
+    name = "Cennik"
+    url = "/cennik/"
+    weight = 0
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Hugo Authors"
+  description = "Przyśpieszam technologię w firmach"
+  homepageImage = "/images/homepage-image.jpg"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = []
+  customJS = []
+
+  [params.social]
+    rss = false
+    email = "contact@qertoip.com"
+    linkedin = "https://www.linkedin.com/in/piotr-w%C5%82odarek-77684033/"
+    stack-overflow = "https://stackoverflow.com/users/407952/qertoip"
+    github = "https://github.com/qertoip"
+    medium = "https://medium.com/@qertoip"
+    reddit = "https://www.reddit.com/user/qertoip"
+    keybase = "https://keybase.io/qertoip"
+
+#  [params.prismJS]
+#    enable = true
+#    theme = ""
+
+#  [params.commento]
+#    enable = true
+#    url = "https://commento.io"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+#[services]
+#  [services.twitter]
+#    disableInlineCSS = true
