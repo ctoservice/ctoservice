@@ -36,7 +36,7 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
+  author = "Piotr Włodarek"
   description = "Przyśpieszam technologię w firmach"
   homepageImage = "/images/homepage-image.jpg"
   share = true
@@ -56,13 +56,13 @@ author = "authors"
     reddit = "https://www.reddit.com/user/qertoip"
     keybase = "https://keybase.io/qertoip"
 
-#  [params.prismJS]
-#    enable = true
-#    theme = ""
+  [params.prismJS]
+    enable = false
+    theme = ""
 
-#  [params.commento]
-#    enable = true
-#    url = "https://commento.io"
+  [params.commento]
+    enable = false
+    url = "https://commento.io"
 
 [markup]
   defaultMarkdownHandler = "goldmark"

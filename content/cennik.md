@@ -15,8 +15,8 @@ Możliwość podpisania (rozsądnego) NDA.
 
 Uczciwe naliczanie czasu pracy i transparentność.
 
-**Warszawa** - dojazd gratis.
+**Warszawa** dojazd gratis.
 
-**Online** - Signal, Jitsi, Meet, Hangouts, MS Teams, Skype, Zoom (tfu).
+**Online** &nbsp; [Signal](https://signal.org/) &nbsp; [Jitsi](https://meet.jit.si/) &nbsp; [Meet](https://meet.google.com/) &nbsp; [Hangouts](https://hangouts.google.com/) &nbsp; MS Teams &nbsp; Skype &nbsp; Zoom (tfu).
 
 Przyjmuję płatności również w kryptowalutach [Bitcoin](https://bitcoinfaq.pl) i [Monero](https://getmonero.org/).
